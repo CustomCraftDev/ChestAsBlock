@@ -1,0 +1,25 @@
+settings:
+  settings_name:
+    value: 0
+    info: ''
+
+random_chest_content
+  - 'CHANCE;Material;AMOUNT;DISPLAYNAME;'
+  - ''
+
+messages: 
+  prefix: '&a&l[&r&7Jackpot&a&l]&r '
+  no_permission: '&cInsufficient permissions!'
+  reload_config: ''
+  reset_config: ''
+  plugin_disabled: ''
+  database_missing: ''
+  
+  help:
+    -''
+    -''
+    -''
+    -''
+    -''
+    -''
+    -''
