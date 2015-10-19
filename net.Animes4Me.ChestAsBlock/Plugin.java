@@ -24,9 +24,9 @@ package net.Animes4Me.ChestAsBlock;
 		
 		@Override
 	    	public List<String> onTabComplete(CommandSender sender, Command cmd, String commandLabel, String[] args) {
-	        if (args.length == 1 && sender.hasPermission("cab.cmd.help")) {
-	        	return Arrays.asList("help","create","open","info","remove","random","reload","reset","disable");
-	        }
+	        	if (args.length == 1 && sender.hasPermission("cab.cmd.help")) {
+	        		return Arrays.asList("help","create","open","info","remove","random","reload","reset","disable");
+	        	}
 			return null;
 		}
 		
