@@ -1,0 +1,8 @@
+name: ChestAsBlock
+main: net.Animes4Me.ChestAsBlock.Plugin
+version: 1.0
+author: 'undeaD_D'
+commands:
+   cab:
+      aliases: [chestab, chestasblock]
+      description: '/cab < help | create | open | info | remove | random | reload | reset | disable>'
